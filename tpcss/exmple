@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ma page</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Bienvenue sur mon site</h1>
+        <p>Mon premier site HTML5</p>
+    </header>
+
+    <main>
+        <h2>Contenu principal</h2>
+        <p>Bonjour !</p>
+    </main>
+
+    <footer>
+        <p>Copyright 2026</p>
+    </footer>
+
+</body>
+</html>
